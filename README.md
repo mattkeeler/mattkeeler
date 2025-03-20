@@ -4,6 +4,7 @@
 </div>
 
 <!-- List of badges: https://github.com/inttter/md-badges -->
+<!--
 &nbsp;<div align="center">
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
@@ -20,6 +21,7 @@
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
 </div>
+-->
 
 &nbsp;<div align="center">
   [![LinkedIn](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/m4tt)
