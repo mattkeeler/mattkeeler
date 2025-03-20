@@ -1,10 +1,19 @@
 <!-- ## Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> -->
 &nbsp;<div align="center">
-  Principal Software Engineer building security products at Evolve Security.
+  Principal Software Engineer at Evolve Security. I work on offensive security products in Go, Python, and C#.
+
+  [![LinkedIn](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/m4tt)
+  ![visitors](https://vbr.nathanchung.dev/badge?page_id=mattkeeler.mattkeeler)
 </div>
 
 <!-- List of badges: https://github.com/inttter/md-badges -->
+
 <!--
+<details>
+<summary>
+  More about me...
+</summary>
+  
 &nbsp;<div align="center">
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
@@ -23,8 +32,4 @@
 </div>
 -->
 
-&nbsp;<div align="center">
-  [![LinkedIn](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/m4tt)
-  ![visitors](https://vbr.nathanchung.dev/badge?page_id=mattkeeler.mattkeeler)
-</div>
 
